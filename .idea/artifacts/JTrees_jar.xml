@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JTrees:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JTrees_jar</output-path>
+    <root id="archive" name="JTrees.jar">
+      <element id="module-output" name="JTrees" />
+      <element id="module-source" name="JTrees" />
+    </root>
+  </artifact>
+</component>
